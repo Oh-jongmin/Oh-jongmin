@@ -18,6 +18,5 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-jongmin&layout=pie)](https://github.com/Oh-jongmin/github-readme-stats)
-![JongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-jongmin&show_icons=true&theme=transparent)
 
 <br>
