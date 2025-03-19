@@ -12,7 +12,7 @@
           <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <br>
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
           <img src="https://img.shields.io/badge/MS Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
           <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
           <br>
