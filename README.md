@@ -15,7 +15,10 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div><br>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-<br>
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> 
+    <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Oh-jongmin&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-jongmin&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+    </div> 
+    </div>
+    
