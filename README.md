@@ -11,7 +11,7 @@
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
+  <Strong> dhwhdals2637@gmail.com </Strong>
 </p><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
