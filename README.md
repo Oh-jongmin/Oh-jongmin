@@ -11,6 +11,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+          <br>
           <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/MS Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
           <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
