@@ -1,7 +1,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center">
-         <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
+         <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= dhwhdals2287@kookmin.ac.kr"> </a>
          <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a>
          <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
           </div><br>
