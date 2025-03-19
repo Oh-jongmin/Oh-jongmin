@@ -17,5 +17,5 @@
     </div><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    ![JongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-jongmin&show_icons=true&theme=transparent)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <br>
