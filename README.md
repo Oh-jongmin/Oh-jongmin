@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-jongmin&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     </div> 
     </div><br>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤣 My-Portfolio 🤣 </h2> <br> 
     <p>
     이곳은 제가 진행한 프로젝트를 모아둔 포트폴리오입니다.<br>
