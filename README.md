@@ -9,7 +9,7 @@
 
 | 주제 | 링크 | 설명 |
 |------|------|------|
-| ☁️ Cloud | [Cloud](./Cloud) | IAM, CIDR, 네트워크 등 이론 정리 |
+| ☁️ Cloud | [Cloud](./Cloud) | 컴퓨팅, 네트워크, IAM, AWS 서비스 등 정리 |
 | 🐧 Linux | [Linux](./linux) | 명령어, 쉘스크립트 실습 |
 | 🐳 Docker | [Docker](https://github.com/Oh-jongmin/Docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
 | ☸️ Kubernetes | [Kubernetes](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
