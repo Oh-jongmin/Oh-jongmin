@@ -1,4 +1,4 @@
- 👋 Hi, I'm Jongmin Oh!
+> 👋 Hi, I'm Jongmin Oh!
 
 > 🌱 I'm learning Cloud, DevOps, and Infrastructure as Code.  
 > 📘 This repository is my **technical practice log** and **portfolio**.
