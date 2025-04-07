@@ -11,7 +11,7 @@
 |------|------|------|
 | ☁️ Cloud 이론 | [cloud-theory](./cloud-theory) | IAM, CIDR, 네트워크 등 이론 정리 |
 | 🐧 Linux | [linux](./linux) | 명령어, 쉘스크립트 실습 |
-| 🐳 Docker | [docker](./docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
+| 🐳 Docker | [Docker](https://github.com/Oh-jongmin/Docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
 | ☸️ Kubernetes | [kubernetes](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
 | 🌍 Terraform | [terraform-gcp](https://github.com/Oh-jongmin/terraform-gcp) | GCP 기반 인프라 자동화 |
 
