@@ -34,27 +34,12 @@
 
 - 📧 Email: dhwhdals2637@gmail.com  
 - 🐙 GitHub: [Oh-jongmin](https://github.com/Oh-jongmin)
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♂️ Contact me 💁‍♂️ </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
-         <a href=https://www.notion.so/_5-_-1ba58b2289c880ba8f92ff0a7b01cd16> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/_5-_-1ba58b2289c880ba8f92ff0a7b01cd16"> </a>
-         <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+
 ---
 
 ![Visitor](https://komarev.com/ghpvc/?username=Oh-jongmin&color=blue)
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♂️ Contact me 💁‍♂️ </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
-         <a href=https://www.notion.so/_5-_-1ba58b2289c880ba8f92ff0a7b01cd16> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/_5-_-1ba58b2289c880ba8f92ff0a7b01cd16"> </a>
-         <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> 
     <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Oh-jongmin&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-jongmin&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
