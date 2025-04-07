@@ -9,11 +9,11 @@
 
 | 주제 | 링크 | 설명 |
 |------|------|------|
-| ☁️ Cloud 이론 | [cloud-theory](./cloud-theory) | IAM, CIDR, 네트워크 등 이론 정리 |
-| 🐧 Linux | [linux](./linux) | 명령어, 쉘스크립트 실습 |
+| ☁️ Cloud | [Cloud](./Cloud) | IAM, CIDR, 네트워크 등 이론 정리 |
+| 🐧 Linux | [Linux](./linux) | 명령어, 쉘스크립트 실습 |
 | 🐳 Docker | [Docker](https://github.com/Oh-jongmin/Docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
-| ☸️ Kubernetes | [kubernetes](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
-| 🌍 Terraform | [terraform-gcp](https://github.com/Oh-jongmin/terraform-gcp) | GCP 기반 인프라 자동화 |
+| ☸️ Kubernetes | [Kubernetes](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
+| 🌍 Terraform | [Terraform-gcp](https://github.com/Oh-jongmin/terraform-gcp) | GCP 기반 인프라 자동화 |
 
 ---
 
