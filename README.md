@@ -5,7 +5,7 @@
 
 ---
 
-## 📁 실습 정리
+## 📁 Practice Overview
 
 | 분야 | 폴더 | 설명 |
 |------|------|------|
@@ -17,13 +17,13 @@
 
 ---
 
-## 💡 기술 스택
+## 💡 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,aws,azure,gcp,docker,kubernetes,github,githubactions)
 
 ---
 
-## 📌 목표
+## 📌 Objectives
 
 - 멀티클라우드 환경에서 IaC 기반 인프라 자동화 구현
 - CI/CD, 보안, 운영 환경까지 통합한 DevOps 환경 설계
