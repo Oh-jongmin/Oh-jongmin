@@ -13,7 +13,7 @@
 | 🐧 Linux | [linux/](./linux) | 명령어, 쉘스크립트 실습 |
 | 🐳 Docker | [docker/](./docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
 | ☸️ Kubernetes | [kubernetes/](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
-| 🌍 Terraform | [terraform/](./terraform) | GCP 기반 인프라 자동화 |
+| 🌍 Terraform | [terraform/](./terraform-gcp) | GCP 기반 인프라 자동화 |
 
 ---
 
