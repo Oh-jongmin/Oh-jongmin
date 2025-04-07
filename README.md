@@ -19,8 +19,7 @@
 
 ## 💡 기술 스택
 
-![My Skills](https://skillicons.dev/icons?i=docker,terraform,gcp,kubernetes,linux,github)
-![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,aws,azure,gcp,docker,kubernetes,github)
+![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,aws,azure,gcp,docker,kubernetes,github,githubactions)
 
 ---
 
