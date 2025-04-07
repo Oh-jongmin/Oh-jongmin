@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/667f390b-7ecc-4973-b608-ee70e0995a87)# 👋 Hi, I'm Jongmin Oh!
+ 👋 Hi, I'm Jongmin Oh!
 
 > 🌱 I'm learning Cloud, DevOps, and Infrastructure as Code.  
 > 📘 This repository is my **technical practice log** and **portfolio**.
