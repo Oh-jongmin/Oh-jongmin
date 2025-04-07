@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jongmin Oh!
+![image](https://github.com/user-attachments/assets/667f390b-7ecc-4973-b608-ee70e0995a87)# 👋 Hi, I'm Jongmin Oh!
 
 > 🌱 I'm learning Cloud, DevOps, and Infrastructure as Code.  
 > 📘 This repository is my **technical practice log** and **portfolio**.
@@ -20,6 +20,7 @@
 ## 💡 기술 스택
 
 ![My Skills](https://skillicons.dev/icons?i=docker,terraform,gcp,kubernetes,linux,github)
+![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,aws,azure,gcp,docker,kubernetes,github)
 
 ---
 
@@ -32,8 +33,8 @@
 
 ## 📬 Contact
 
-- 📧 Email: dhwhdals2637@gmail.com  
-- 🐙 GitHub: [Oh-jongmin](https://github.com/Oh-jongmin)
+📧 Email: dhwhdals2637@gmail.com  
+🐙 GitHub: [Oh-jongmin](https://github.com/Oh-jongmin) 
 
 ---
 
