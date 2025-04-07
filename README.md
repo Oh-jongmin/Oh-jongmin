@@ -39,7 +39,7 @@
 
 ![Visitor](https://komarev.com/ghpvc/?username=Oh-jongmin&color=blue)
 
-## 🏅 Stats 🏅
+## 🏅 Stats
 
 ![JongMin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oh-jongmin&show_icons=true&theme=tokyonight&hide=prs,issues&custom_title=JongMin%20Oh's%20GitHub%20Stats)
 
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ My-Portfolio ⚡
+## ⚡ My-Portfolio
 
 > 이곳은 제가 진행한 프로젝트를 모아둔 포트폴리오입니다.  
 > 클라우드 컴퓨팅, 인프라 자동화, 보안 등 다양한 기술을 활용하여  
