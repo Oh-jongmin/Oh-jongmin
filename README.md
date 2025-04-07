@@ -1,3 +1,44 @@
+# 👋 Hi, I'm Jongmin Oh!
+
+> 🌱 I'm learning Cloud, DevOps, and Infrastructure as Code.  
+> 📘 This repository is my **technical practice log** and **portfolio**.
+
+---
+
+## 📁 실습 정리
+
+| 분야 | 폴더 | 설명 |
+|------|------|------|
+| 🐳 Docker | [docker/](./docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
+| 🌍 Terraform | [terraform/](./terraform) | GCP 기반 인프라 자동화 |
+| ☸️ Kubernetes | [kubernetes/](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
+| 🐧 Linux | [linux/](./linux) | 명령어, 쉘스크립트 실습 |
+| ☁️ Cloud 이론 | [cloud-theory/](./cloud-theory) | IAM, CIDR, 네트워크 등 이론 정리 |
+
+---
+
+## 💡 기술 스택
+
+![My Skills](https://skillicons.dev/icons?i=docker,terraform,gcp,kubernetes,linux,github)
+
+---
+
+## 📌 목표
+
+- 멀티클라우드 환경에서 IaC 기반 인프라 자동화 구현
+- CI/CD, 보안, 운영 환경까지 통합한 DevOps 환경 설계
+
+---
+
+## 📬 Contact
+
+- 📧 Email: dhwhdals2637@gmail.com  
+- 🐙 GitHub: [Oh-jongmin](https://github.com/Oh-jongmin)
+
+---
+
+![Visitor](https://komarev.com/ghpvc/?username=Oh-jongmin&color=blue)
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♂️ Contact me 💁‍♂️ </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
