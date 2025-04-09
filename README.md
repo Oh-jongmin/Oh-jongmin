@@ -12,7 +12,7 @@
 | ☁️ Cloud | [Cloud](https://github.com/Oh-jongmin/Cloud) | 컴퓨팅, 네트워크, IAM, AWS 서비스 등 정리 |
 | 🐧 Linux | [Linux](https://github.com/Oh-jongmin/Linux) | 명령어, 쉘스크립트 실습 |
 | 🐳 Docker | [Docker](https://github.com/Oh-jongmin/Docker) | 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 |
-| ☸️ Kubernetes | [Kubernetes](./kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
+| ☸️ Kubernetes | [Kubernetes](https://github.com/Oh-jongmin/Kubernetes) | GKE, YAML, Deployment, Service 등 실습 |
 | 🌍 Terraform | [Terraform-gcp](https://github.com/Oh-jongmin/terraform-gcp) | GCP 기반 인프라 자동화 |
 
 ---
