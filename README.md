@@ -33,7 +33,7 @@
 ## 📬 Contact
 
 📧 Email: dhwhdals2637@gmail.com  
-🐙 GitHub: [GitHub](https://github.com/Oh-jongmin)
+🐙 GitHub: [GitHub](https://github.com/Oh-jongmin)  
 🗂️ Notion: [Notion](https://www.notion.so/1cf58b2289c880d583cdcc33491bddf2?v=1cf58b2289c881acb811000c43d9e2f0&pvs=4)
 
 ---
